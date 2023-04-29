@@ -7,7 +7,7 @@ April 30-May 4, 2023, Austin, Texas, USA
 
 # Aganda
 
-Virtual Meet Tool: VooV Meeting		
+Virtual Meet Tool: VooV Meeting	(腾讯会议)
 
 Meeting ID: 545-685-219	
 
@@ -15,12 +15,12 @@ Meeting Link: https://meeting.tencent.com/dm/fakNuXU0Btnz
 
 | Time	| Aganda |	DOI |	Presenter |
 | ------------------------------- | - | - | - |
-| 2023/05/01 09:00 - 09:10 (CDT) <br> 2023/05/01 22:00 - 22:10 (北京時間) <br> 2023/05/01 19:30 - 19:40 (IST) |	Introduction | 	|	Woshoop Organizers |
-| 2023/05/01 09:10 - 09:20 (CDT) <br> 2023/05/01 22:10 - 22:20 (北京時間) <br> 2023/05/01 19:40 - 19:50 (IST) |	Multiple-Agent Deep Reinforcement Learning for Avatar Migration in Vehicular Metaverses |	https://doi.org/10.1145/3543873.3587573 |	Junlong Chen et al. |
-| 2023/05/01 09:20 - 09:30 (CDT) <br> 2023/05/01 22:20 - 22:30 (北京時間)  <br> 2023/05/01 19:50 - 20:00 (IST) |	Web 3.0: The Future of Internet	| https://doi.org/10.1145/3543873.3587583 |	Wensheng Gan et al. |
-| 2023/05/01 09:30 - 09:40 (CDT) <br> 2023/05/01 22:30 - 22:40 (北京時間) <br> 2023/05/01 20:00 - 20:10 (IST) |	Weighted Statistically Significant Pattern Mining |	https://doi.org/10.1145/3543873.3587586 |	Tingfu Zhou et al. |
-| 2023/05/01 09:40 - 09:50 (CDT) <br> 2023/05/01 22:40 - 22:50 (北京時間) <br> 2023/05/01 20:10 - 20:20 (IST) |	The Human-Centric Metaverse: A Survey |	https://doi.org/10.1145/3543873.3587593 |	Riyan Yang et al. |
-| 2023/05/01 09:50 - 10:00 (CDT) <br> 2023/05/01 22:50 - 23:00 (北京時間) <br> 2023/05/01 20:20 - 20:30 (IST) |	DSNet: Efficient Lightweight Model for Video Salient Object Detection for IoT and WoT Applications |	https://doi.org/10.1145/3543873.3587592 |	Hemraj Singh et al. |
+| 2023/05/01 09:00 - 09:10 (CDT) <br> 2023/05/01 22:00 - 22:10 (北京时间) <br> 2023/05/01 19:30 - 19:40 (IST) |	Introduction | 	|	Woshoop Organizers |
+| 2023/05/01 09:10 - 09:20 (CDT) <br> 2023/05/01 22:10 - 22:20 (北京时间) <br> 2023/05/01 19:40 - 19:50 (IST) |	Multiple-Agent Deep Reinforcement Learning for Avatar Migration in Vehicular Metaverses |	https://doi.org/10.1145/3543873.3587573 |	Junlong Chen et al. |
+| 2023/05/01 09:20 - 09:30 (CDT) <br> 2023/05/01 22:20 - 22:30 (北京时间)  <br> 2023/05/01 19:50 - 20:00 (IST) |	Web 3.0: The Future of Internet	| https://doi.org/10.1145/3543873.3587583 |	Wensheng Gan et al. |
+| 2023/05/01 09:30 - 09:40 (CDT) <br> 2023/05/01 22:30 - 22:40 (北京时间) <br> 2023/05/01 20:00 - 20:10 (IST) |	Weighted Statistically Significant Pattern Mining |	https://doi.org/10.1145/3543873.3587586 |	Tingfu Zhou et al. |
+| 2023/05/01 09:40 - 09:50 (CDT) <br> 2023/05/01 22:40 - 22:50 (北京时间) <br> 2023/05/01 20:10 - 20:20 (IST) |	The Human-Centric Metaverse: A Survey |	https://doi.org/10.1145/3543873.3587593 |	Riyan Yang et al. |
+| 2023/05/01 09:50 - 10:00 (CDT) <br> 2023/05/01 22:50 - 23:00 (北京时间) <br> 2023/05/01 20:20 - 20:30 (IST) |	DSNet: Efficient Lightweight Model for Video Salient Object Detection for IoT and WoT Applications |	https://doi.org/10.1145/3543873.3587592 |	Hemraj Singh et al. |
 
 # Scope
 In recent years, the techniques of Internet of Things (IoT) and Web of Things (WoT) have been more and more popular to collect sensing data and build intelligent services and applications. Some organizations (e.g., oneM2M, Open Connectivity Foundation (OCF), IEEE, etc.) were instituted to establish the standards and specifications of IoT for building an IoT ecosystem. These standards and specifications discuss the issues of data models, unique identification of things, service descriptions and dependencies, discovery, trust management, and real-time control and cyber-physical systems. For instance, OCF designed discovery and advertisement mechanisms to send multicast packets to find the adapted devices which include the target interface in wireless local area network based on IEEE 802.11 or personal area network based on IEEE 802.15 for building a self-organizing network. The devices can follow the data models and control methods in specifications to control other OCF devices for IoT applications. However, the communications among the different techniques of IoT standards and specifications are the important challenges. Therefore, the interoperation of services across platforms based on different IoT standards and specifications needs to be investigated. For example, the Interworking Proxy Entity (IPE) was designed to establish the connection of oneM2M, OCF, and Lightweight M2M in oneM2M's Release 2. The WoT defined by the World Wide Web Consortium (W3C) focuses on the web technologies for the combination and interoperation of the IoT with the web of data. Developers can use the techniques of WoT to collect the sensing data and control the devices via different IoT standards and specifications for the applications of agriculture, energy, enterprise, finance, healthcare, industry, public services, residency, retail, and transportation.
